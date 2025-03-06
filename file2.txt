@@ -1,0 +1,1 @@
+Git is free and open-source software shared under the GPL-2.0-only license.
